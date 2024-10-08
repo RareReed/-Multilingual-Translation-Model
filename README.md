@@ -1,1 +1,1 @@
-
+ Built a Machine Translation Model to translate English Text into Native Languages of Maharashtra- Hindi, Marathi using Streamlit framework incorporated with Helsinki NLP Model. The Application achieved an accuracy of over 85 percent
